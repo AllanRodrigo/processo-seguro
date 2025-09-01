@@ -64,20 +64,19 @@ processo-seguro/
    docker-compose up --build
    ```
 
-Isso irá:
-
+ Isso irá:
 - Construir e iniciar um container para o SQL Server.
 - Construir e iniciar um container para a API .NET Core.
 - Construir e iniciar um container para a API JSoon Server.
 - Construir e iniciar um container para a aplicação Angular.
 
-4. Uso da Collection Postman
+3. Uso da Collection Postman
 **Deixei junto ao arquvos a collection utilizada para as chamadas das APIs. Será importante utilizar a chamada para a inclusão de novos seguros antes de exibir os dados na aplicação.**
 
-5. Uso da Aplicação
+4. Uso da Aplicação
 **Abra o navegador e acesse http://localhost:4200. A interface exibe apenas a lista das médias de seguros.**
 
-6. Notas Finais
+5. Notas Finais
 - Certifique-se de que as portas 1433 (SQL Server), 5000 (API) e 4200 (Frontend) estão disponíveis em sua máquina.
 - Para parar os containers, use docker-compose down.
 
