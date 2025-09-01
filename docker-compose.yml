@@ -1,0 +1,40 @@
+#version: '3.8'
+
+services:
+  sql-server-db:
+    container_name: sql-server-db
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+        - "1433:1433"
+    environment:
+        MSSQL_SA_PASSWORD: "SuperPassword@23"
+        ACCEPT_EULA: "Y"
+        MSSQL_PID: "Developer"
+
+
+  segurosallanapi:
+    depends_on:
+        - sql-server-db
+    restart: on-failure
+    image: ${DOCKER_REGISTRY-}segurosallanapi
+    build:
+      context: .
+      dockerfile: segurosallanapi/segurosallanapi/Dockerfile
+    ports:
+        - 5000:8080
+
+  seguro-allan-app:
+    depends_on:
+        - segurosallanapi
+    build:
+      context: .
+      dockerfile: seguro-allan-app/Dockerfile
+    ports:
+      - "4200:80"
+
+  seguro-allan-json-server:
+    build:
+      context: .
+      dockerfile: JsonServer/Dockerfile
+    ports:
+      - "3000:3000"

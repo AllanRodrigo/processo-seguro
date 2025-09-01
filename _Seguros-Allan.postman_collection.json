@@ -1,0 +1,131 @@
+{
+	"info": {
+		"_postman_id": "c61a6923-c832-4705-bfcf-f87e34194291",
+		"name": "_Seguros-Allan",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "11384703"
+	},
+	"item": [
+		{
+			"name": "Relatorio",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:5000/api/Seguros/relatorio",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"Seguros",
+						"relatorio"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Calculo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/Seguros/calculo?valor=10000",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"Seguros",
+						"calculo"
+					],
+					"query": [
+						{
+							"key": "valor",
+							"value": "10000"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Seguro",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/api/Seguros/seguro?Id=3",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"Seguros",
+						"seguro"
+					],
+					"query": [
+						{
+							"key": "Id",
+							"value": "3"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Salvar_Seguro",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "accept",
+						"value": "*/*",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"cpf\": 11111111111,\r\n  \"marca\": \"Fiat\",\r\n  \"modelo\": \"Mobi\",\r\n  \"valor\": 50000\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5000/api/Seguros",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"Seguros"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

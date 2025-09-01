@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE870BA-38CF-48E3-90BB-4299712CE08D}|SegurooAllanTest\\SegurooAllanTest.csproj|d:\\desenvolvimento\\c\\processo_seguro\\segurosallanapi\\segurooallantest\\segurotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE870BA-38CF-48E3-90BB-4299712CE08D}|SegurooAllanTest\\SegurooAllanTest.csproj|solutionrelative:segurooallantest\\segurotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|d:\\desenvolvimento\\c\\processo_seguro\\segurosallanapi\\segurosallanapi\\controllers\\seguroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|solutionrelative:segurosallanapi\\controllers\\seguroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|d:\\desenvolvimento\\c\\processo_seguro\\segurosallanapi\\segurosallanapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|solutionrelative:segurosallanapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|d:\\desenvolvimento\\c\\processo_seguro\\segurosallanapi\\segurosallanapi\\services\\seguradoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|solutionrelative:segurosallanapi\\services\\seguradoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|d:\\desenvolvimento\\c\\processo_seguro\\segurosallanapi\\segurosallanapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|solutionrelative:segurosallanapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|d:\\desenvolvimento\\c\\processo_seguro\\segurosallanapi\\segurosallanapi\\models\\seguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|solutionrelative:segurosallanapi\\models\\seguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|d:\\desenvolvimento\\c\\processo_seguro\\segurosallanapi\\segurosallanapi\\models\\segurado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|solutionrelative:segurosallanapi\\models\\segurado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|d:\\desenvolvimento\\c\\processo_seguro\\segurosallanapi\\segurosallanapi\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|solutionrelative:segurosallanapi\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|d:\\desenvolvimento\\c\\processo_seguro\\segurosallanapi\\segurosallanapi\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|solutionrelative:segurosallanapi\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|d:\\desenvolvimento\\c\\processo_seguro\\segurosallanapi\\segurosallanapi\\migrations\\20250830012226_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06C28D6-EF28-4C56-9187-E3B75DBFBEFE}|SegurosAllanAPI\\SegurosAllanAPI.csproj|solutionrelative:segurosallanapi\\migrations\\20250830012226_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeguroTest.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurooAllanTest\\SeguroTest.cs",
+              "RelativeDocumentMoniker": "SegurooAllanTest\\SeguroTest.cs",
+              "ToolTip": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurooAllanTest\\SeguroTest.cs",
+              "RelativeToolTip": "SegurooAllanTest\\SeguroTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T16:03:27.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SegurosAllanAPI\\Program.cs",
+              "ToolTip": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\Program.cs",
+              "RelativeToolTip": "SegurosAllanAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T14:50:22.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SegurosAllanAPI\\appsettings.json",
+              "ToolTip": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\appsettings.json",
+              "RelativeToolTip": "SegurosAllanAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-01T14:49:35.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeguradoService.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\Services\\SeguradoService.cs",
+              "RelativeDocumentMoniker": "SegurosAllanAPI\\Services\\SeguradoService.cs",
+              "ToolTip": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\Services\\SeguradoService.cs",
+              "RelativeToolTip": "SegurosAllanAPI\\Services\\SeguradoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T14:49:26.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Seguro.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\Models\\Seguro.cs",
+              "RelativeDocumentMoniker": "SegurosAllanAPI\\Models\\Seguro.cs",
+              "ToolTip": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\Models\\Seguro.cs",
+              "RelativeToolTip": "SegurosAllanAPI\\Models\\Seguro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T00:51:05.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Segurado.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\Models\\Segurado.cs",
+              "RelativeDocumentMoniker": "SegurosAllanAPI\\Models\\Segurado.cs",
+              "ToolTip": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\Models\\Segurado.cs",
+              "RelativeToolTip": "SegurosAllanAPI\\Models\\Segurado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T00:48:36.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SegurosController.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\Controllers\\SegurosController.cs",
+              "RelativeDocumentMoniker": "SegurosAllanAPI\\Controllers\\SegurosController.cs",
+              "ToolTip": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\Controllers\\SegurosController.cs",
+              "RelativeToolTip": "SegurosAllanAPI\\Controllers\\SegurosController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwEoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T20:30:26.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250830012226_initial.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\Migrations\\20250830012226_initial.cs",
+              "RelativeDocumentMoniker": "SegurosAllanAPI\\Migrations\\20250830012226_initial.cs",
+              "ToolTip": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\Migrations\\20250830012226_initial.cs",
+              "RelativeToolTip": "SegurosAllanAPI\\Migrations\\20250830012226_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T01:22:27.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataDbContext.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\Data\\DataDbContext.cs",
+              "RelativeDocumentMoniker": "SegurosAllanAPI\\Data\\DataDbContext.cs",
+              "ToolTip": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\Data\\DataDbContext.cs",
+              "RelativeToolTip": "SegurosAllanAPI\\Data\\DataDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T20:22:09.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\Models\\Veiculo.cs",
+              "RelativeDocumentMoniker": "SegurosAllanAPI\\Models\\Veiculo.cs",
+              "ToolTip": "D:\\Desenvolvimento\\C\\Processo_Seguro\\SegurosAllanAPI\\SegurosAllanAPI\\Models\\Veiculo.cs",
+              "RelativeToolTip": "SegurosAllanAPI\\Models\\Veiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T00:51:42.918Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
