@@ -1,0 +1,18 @@
+<div class="container">
+  <h1>Relatório de Seguros</h1>
+
+  <table class="table table-sm">
+    <thead>
+      <tr>
+        <th scope="col">Cpf</th>
+        <th scope="col">Média de Seguros</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let seguro of seguros">
+        <td>{{ seguro.cpf | cpf }}</td>
+        <td>{{ seguro.mediaSeguros  }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
