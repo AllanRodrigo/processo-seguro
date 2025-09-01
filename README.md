@@ -19,6 +19,7 @@ processo-seguro/
 │   └── package.json
 │   └── src/
 └── docker-compose.yml
+└── _Seguros-Allan.postman_collection.json
 ```
 
 - `JsonServer`: Contém um Json Server para simular a chamada de Consulta Cpfs
